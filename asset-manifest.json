@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bd9ba07.chunk.css",
-    "main.js": "/static/js/main.a7529621.chunk.js",
-    "main.js.map": "/static/js/main.a7529621.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.316c09a8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.316c09a8.js.map",
-    "static/css/2.fff60caa.chunk.css": "/static/css/2.fff60caa.chunk.css",
-    "static/js/2.cc5558eb.chunk.js": "/static/js/2.cc5558eb.chunk.js",
-    "static/js/2.cc5558eb.chunk.js.map": "/static/js/2.cc5558eb.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.fff60caa.chunk.css.map": "/static/css/2.fff60caa.chunk.css.map",
-    "static/css/main.7bd9ba07.chunk.css.map": "/static/css/main.7bd9ba07.chunk.css.map",
-    "static/js/2.cc5558eb.chunk.js.LICENSE.txt": "/static/js/2.cc5558eb.chunk.js.LICENSE.txt",
-    "static/media/logo.4764d5b6.png": "/static/media/logo.4764d5b6.png"
+    "main.css": "/yield-aggregator-master/static/css/main.7bd9ba07.chunk.css",
+    "main.js": "/yield-aggregator-master/static/js/main.e3cf144e.chunk.js",
+    "main.js.map": "/yield-aggregator-master/static/js/main.e3cf144e.chunk.js.map",
+    "runtime-main.js": "/yield-aggregator-master/static/js/runtime-main.e62a39c5.js",
+    "runtime-main.js.map": "/yield-aggregator-master/static/js/runtime-main.e62a39c5.js.map",
+    "static/css/2.fff60caa.chunk.css": "/yield-aggregator-master/static/css/2.fff60caa.chunk.css",
+    "static/js/2.20c9a53c.chunk.js": "/yield-aggregator-master/static/js/2.20c9a53c.chunk.js",
+    "static/js/2.20c9a53c.chunk.js.map": "/yield-aggregator-master/static/js/2.20c9a53c.chunk.js.map",
+    "index.html": "/yield-aggregator-master/index.html",
+    "static/css/2.fff60caa.chunk.css.map": "/yield-aggregator-master/static/css/2.fff60caa.chunk.css.map",
+    "static/css/main.7bd9ba07.chunk.css.map": "/yield-aggregator-master/static/css/main.7bd9ba07.chunk.css.map",
+    "static/js/2.20c9a53c.chunk.js.LICENSE.txt": "/yield-aggregator-master/static/js/2.20c9a53c.chunk.js.LICENSE.txt",
+    "static/media/logo.4764d5b6.png": "/yield-aggregator-master/static/media/logo.4764d5b6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.316c09a8.js",
+    "static/js/runtime-main.e62a39c5.js",
     "static/css/2.fff60caa.chunk.css",
-    "static/js/2.cc5558eb.chunk.js",
+    "static/js/2.20c9a53c.chunk.js",
     "static/css/main.7bd9ba07.chunk.css",
-    "static/js/main.a7529621.chunk.js"
+    "static/js/main.e3cf144e.chunk.js"
   ]
 }
